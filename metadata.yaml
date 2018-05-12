@@ -1,10 +1,16 @@
 _repo: Ten-Acres-Enough-How-a-very-small-farm-may-be-made-to-keep-a-very-large-family_48753
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48753-h/images/cover.jpg
 creator:
   author:
     agent_name: Morris, Edmund
     gutenberg_agent_id: '44956'
     url: http://www.gutenberg.org/2009/agents/44956
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48753#Ten-Acres-Enough-How-a-very-small-farm-may-be-made-to-keep-a-very-large-family
 gutenberg_issued: '2015-04-20'
 gutenberg_type: Text
 identifiers:
